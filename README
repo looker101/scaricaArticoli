@@ -1,0 +1,7 @@
+# lettura file dello stato ordini
+# attivazione del foglio interessato
+# crea l'input dove inserisco il numero di ordini che devo evadere
+# list comprenshion, creo una lista con gli ordini inseriti nell'input divisi da una virgola
+# creo il foglio di destinazione dove andranno le righe relative agli ordini inseriti nell'input
+# per ogni ordine che viene inserito nell'input, itero per ogni riga, se il numero di ordine viene trovato si appende al nome del foglio nuovo
+# si salva
