@@ -1,6 +1,6 @@
 import openpyxl
 
-path = "C:\\Users\\slevi\\OneDrive\\Desktop\\George\\scaricoFocus\\orders_export.xlsx"
+path = #file orders_status2024
 
 wb = openpyxl.load_workbook(path)
 ws = wb.active
@@ -23,5 +23,5 @@ for numero_ordine in numero_ordini_da_cercare:
     if not trovato:
         print(f"Il numero di ordine {ricerca_ordini} non è stato trovato nel file")
 
-wb.save("gianni.xlsx")
+wb.save("orders_to_ship.xlsx")
 print("File salvato correttamente")
