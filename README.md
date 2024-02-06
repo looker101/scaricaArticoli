@@ -1,4 +1,4 @@
-**getOrders.py**
+# **getOrders.py**
 
 1. lettura del file "Stato Ordini"
 2. Togliere eventuali spazi da ogni cella della colonne "Ordini"
