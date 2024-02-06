@@ -1,3 +1,4 @@
+:monkey_face:	
 # Comparazione fulfillati Shopify -> Scaricati Focus
 
 1. Per ogni ordine che verrà evaso nella giornata corrente:
