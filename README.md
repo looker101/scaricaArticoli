@@ -5,7 +5,7 @@
      - cerca il numero di ordine all'interno del file stato ordini e riportalo nel nuovo foglio di lavoro (utilizza il programma getOrders.py)
      - inserisci il barcode
 
-## **getOrders.py**
+## **getOrders.py** :mushroom:	
 
 1. lettura del file "Stato Ordini"
 2. Togliere eventuali spazi da ogni cella della colonne "Ordini"
@@ -17,7 +17,7 @@
 8. Aggiungo la colonna relativa al barcode
 9. Salvo il file
 
-## **getCompare.py**
+## **getCompare.py** :baby_bottle:	
 1. Leggere il file scaricato da Focus
 2. Utilizza solo le colonne che ti servono
 3. Con il comando merge di pandas, fai un confronto tra il file generato da getOrders.py ed il file di focus in base alla colonna dei barcode
