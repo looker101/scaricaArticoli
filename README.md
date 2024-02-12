@@ -1,6 +1,8 @@
 
 # :monkey_face: Comparazione fulfillati Shopify -> Scaricati Focus :pig:		
 
+## Inserisci nella cartella il file "Order Status_2024" ed il file esportato da Focus(Report > Magazzino > Movimenti > Vendite nel perioro)
+
 1. Per ogni ordine che verrà evaso nella giornata corrente:
      - cerca il numero di ordine all'interno del file stato ordini e riportalo nel nuovo foglio di lavoro (utilizza il programma getOrders.py)
      - inserisci il barcode
