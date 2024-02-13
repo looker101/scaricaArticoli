@@ -6,7 +6,7 @@
 
 1. Per ogni ordine che verrà evaso nella giornata corrente:
      - cerca il numero di ordine all'interno del file stato ordini e riportalo nel nuovo foglio di lavoro (utilizza il programma getOrders.py)
-     - inserisci il barcode
+     - inserisci il barcode all'interno del file dello stato ordini, in modo che venga riportato nel foglio di lavoro **"Risultato"**
 
 ## **getOrders.py** :mushroom:	
 
