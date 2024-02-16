@@ -9,7 +9,6 @@
      - inserisci il barcode all'interno del file dello stato ordini, in modo che venga riportato nel foglio di lavoro **"Risultato"**
 
 ## **getOrders.py** :mushroom:	
-
 1. lettura del file "Stato Ordini"
 2. Togliere eventuali spazi da ogni cella della colonne "Ordini"
 3. Creare input dove inserire il numero di ordine da copiare nell'altro file
@@ -25,4 +24,6 @@
 2. Utilizza solo le colonne che ti servono
 3. Con il comando merge di pandas, fai un confronto tra il file generato da getOrders.py ed il file di focus in base alla colonna dei barcode
 4. I barcode senza corrispondenza (a regola gli oggetti NON scaricati da Focus) saranno inseriti all'interno del file excel generato alla fine del processo
-5. 
+   
+## **megaCompare.py**: :disguised_face:	
+1. Comparazione di tutti i prodotti nel file Status Order_2024 e il file estrapolato da Focus
