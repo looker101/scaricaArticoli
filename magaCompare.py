@@ -13,4 +13,5 @@ ordini_looker.rename(columns={"Barcode":"Codice a barre"}, inplace = True)
 
 comapare = ordini_looker.merge(focus, on = "Codice a barre", how = "left", indicator=True)
 
-comapare.to_excel("testCompare.xlsx", index=False)
+if __name__ == "__main__":
+    comapare.to_excel("testCompare.xlsx", index=False)
